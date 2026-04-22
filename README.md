@@ -73,13 +73,5 @@ The project consists of the following tables:
 - Analyze deposits & withdrawals  
 - Filter active loans  
 ---
-
-## 🚀 How to Run
-
-1. Install MySQL  
-2. Open MySQL Workbench / CLI  
-3. Run the SQL script:
-   ```sql
-
-   PROJECT PDF FILE :https://drive.google.com/file/d/13IkKoyRedQMaVkFZdKJwoZknvDgpU8Uq/view?usp=sharing
-   
+PROJECT PDF FILE :https://drive.google.com/file/d/13IkKoyRedQMaVkFZdKJwoZknvDgpU8Uq/view?usp=sharing
+PROJECT SQL FILE :https://drive.google.com/file/d/1UuL0IC2lB4DoJhfRqHHvLe4IGqM3JAVK/view?usp=sharing
